@@ -26,6 +26,9 @@ jobs:
         uses: borales/actions-yarn@v4
         with:
           cmd: build
+        env:
+          TURBO_TOKEN: Mdw82B8k55eCwVqst913mckl
+          TURBO_TEAM: angelopedroso-s-team
 
       - name: Deploy storybook
         uses: borales/actions-yarn@v4
