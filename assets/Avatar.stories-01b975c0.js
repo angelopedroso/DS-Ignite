@@ -1,0 +1,2 @@
+import{A as t}from"./index-877ca129.js";import"./index-3f6ee8fd.js";import"./iframe-ca052400.js";import"./index-269275fb.js";import"./jsx-runtime-84fefc98.js";const i={title:"Data display/Avatar",component:t,args:{src:"https://github.com/angelopedroso.png",alt:"Angelo Pedroso"},argTypes:{src:{control:{type:"text"}}}},p={},c={args:{src:void 0}},l=["Primary","WithFallback"];export{p as Primary,c as WithFallback,l as __namedExportsOrder,i as default};
+//# sourceMappingURL=Avatar.stories-01b975c0.js.map
